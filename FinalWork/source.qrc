@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/BgForResult.jpg</file>
+        <file>source/BgForStart.jpg</file>
+        <file>source/luwangtu.png</file>
+        <file>source/node.txt</file>
+        <file>source/subway.txt</file>
+        <file>source/velocity.txt</file>
+        <file>source/icon.png</file>
+    </qresource>
+</RCC>
